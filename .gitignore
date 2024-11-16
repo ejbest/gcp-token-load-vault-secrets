@@ -1,6 +1,17 @@
-# Local .terraform directories
-**/.terraform/*
+vars.env
+gsa.json
+.terraform/ 
+terraform.*
+playground-project-441521-6f3853808f6b.json
+bindings.hcl
+*.json
 
+# Local .terraform directories
+.DS_Store
+.env
+ssh_key.pem
+**/.terraform/*
+.terraform.lock.hcl
 # .tfstate files
 *.tfstate
 *.tfstate.*
